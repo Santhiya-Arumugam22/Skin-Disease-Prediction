@@ -1,8 +1,8 @@
 # Skin-Disease-Prediction
-Disease Prediction in Machine Learning
+Skin Disease Prediction in Machine Learning
 Overview
 	
- Disease prediction using machine learning is an innovative approach that leverages computational techniques to analyze and interpret medical data, assisting in the early identification and prediction of various health conditions. This project focuses on employing machine learning algorithms to predict the likelihood of a person having a specific disease based on a set of health-related features.
+Skin Disease prediction using machine learning is an innovative approach that leverages computational techniques to analyze and interpret medical data, assisting in the early identification and prediction of various health conditions. This project focuses on employing machine learning algorithms to predict the likelihood of a person having a specific disease based on a set of health-related features.
 
 Objective
 	
